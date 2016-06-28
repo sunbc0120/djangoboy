@@ -91,3 +91,4 @@ ENV/
 
 # sunbc0120
 .idea/
+db.sqlite3
